@@ -29,6 +29,10 @@ This project demonstrates my ability to handle large datasets, conduct in-depth 
 You can view the project and explore the code here: [GitHub Repository Link]
 (Note: Add your actual GitHub repository link)
 
+![Patient Dashboard](https://github.com/yourusername/yourrepository/blob/main/path/to/image.png)
+You can view the project and explore the code here: [Project Link Link](https://app.powerbi.com/view?r=eyJrIjoiMjE5NzRlNDEtMWNhMC00MDllLWJmNDAtMmZmYWU4NTg0ZDczIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=9baaad1a860403b81238)
+
+
 ## Portfolio:
 Check out my portfolio for more projects like this: [Portfolio Link]
 (Note: Add your portfolio link)
