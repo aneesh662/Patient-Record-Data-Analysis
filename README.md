@@ -2,7 +2,7 @@
 # Patient Record Data Analysis Dashboard
 
 ![Patient Dashboard](https://github.com/aneesh662/Patient-Record-Data-Analysis/blob/a6be1de66267357060b437ef10840a7bbacc4132/image.JPG)
-You can view the project and explore the code here: [Project Link Link](https://app.powerbi.com/view?r=eyJrIjoiMjE5NzRlNDEtMWNhMC00MDllLWJmNDAtMmZmYWU4NTg0ZDczIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=9baaad1a860403b81238)
+You can view the project : [Project Link Link](https://app.powerbi.com/view?r=eyJrIjoiMjE5NzRlNDEtMWNhMC00MDllLWJmNDAtMmZmYWU4NTg0ZDczIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=9baaad1a860403b81238)
 
 
 ## Project Overview:
@@ -29,13 +29,6 @@ This project involved developing an interactive dashboard to analyze patient dat
 ## Conclusion:
 This project demonstrates my ability to handle large datasets, conduct in-depth analyses, and create dynamic, user-friendly dashboards using a combination of Python, Power BI, DAX, and Excel. The dashboard not only provides critical insights for healthcare management but also enables data-driven decision-making at multiple levels.
 
-## GitHub Repository:
-You can view the project and explore the code here: [GitHub Repository Link]
-(Note: Add your actual GitHub repository link)
 
 
 
-
-## Portfolio:
-Check out my portfolio for more projects like this: [Portfolio Link]
-(Note: Add your portfolio link)
